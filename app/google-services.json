@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "442147285296",
+    "firebase_url": "https://bookuku-kelompok8.firebaseio.com",
+    "project_id": "bookuku-kelompok8",
+    "storage_bucket": "bookuku-kelompok8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442147285296:android:f90c7e9f7cb0af15",
+        "android_client_info": {
+          "package_name": "com.kelompok8.Bookuku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442147285296-dpdrnkl03ponrme70gfpnkcp4a7mqm7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6k_F2aAHcDq19tfGzxMHxpLBolpmzKaw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

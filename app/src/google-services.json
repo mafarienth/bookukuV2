@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "146520024607",
+    "firebase_url": "https://mafarienthmodul6.firebaseio.com",
+    "project_id": "mafarienthmodul6",
+    "storage_bucket": "mafarienthmodul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146520024607:android:8d5f8e9153c11831",
+        "android_client_info": {
+          "package_name": "com.kelompok8.Bookuku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146520024607-035hfp2j39o3fm7dkjuuts7hdafdlp59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kelompok8.Bookuku",
+            "certificate_hash": "b0ce6bfadb52ec81f8dffba7c2383ef33c3455e1"
+          }
+        },
+        {
+          "client_id": "146520024607-ejcp3nchfknkku003ihpkt55jsd14o9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kelompok8.Bookuku",
+            "certificate_hash": "82970442fa5a01ab1d5ef685d4c3c0288f11f5b1"
+          }
+        },
+        {
+          "client_id": "146520024607-bbjffa5jlaf4psfiu84e0tqbdj7gvpil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxqDBdkNTAH2XoQz2U7NwGNnsYji0MFSA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146520024607-bbjffa5jlaf4psfiu84e0tqbdj7gvpil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

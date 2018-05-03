@@ -10,8 +10,10 @@
     <string name="error_incorrect_password">Salah Password</string>
     <string name="error_field_required">This field is required</string>
     <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
-    <string name="deskripsi_bookuku">aplikasi ini merupakan aplikasi berbasis android platformer yang buat untuk mahasiswa khususnya mahasiswa Telkom University untuk memudahkan dalam meminjam dan meminamkan buku antar user
+    <string name="deskripsi_bookuku">Aplikasi ini merupakan aplikasi berbasis android platformer yang buat untuk mahasiswa khususnya mahasiswa Telkom University untuk memudahkan dalam meminjam dan meminamkan buku antar user. aplikasi ini merupakan sebagai tugas besar mata kuliah Rekayasa Perangkat Lunak (Casptone Project).
     </string>
+    <string name="Bantuan">Untuk feedback dan saran dapat menghubungi :
+    Mochamadr70@gmail.com</string>
     <array name="genres">
         <item name="Pendikan">Pendikan</item>
         <item name="Fiksi">Fiksi</item>
